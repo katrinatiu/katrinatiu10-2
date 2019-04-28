@@ -1,0 +1,236 @@
+.header{
+	display:grid;
+	grid-template-columns: 1fr 3fr;
+	padding: 5px;
+	grid-gap: 10px;
+	list-style: 0;
+}
+.cupcake{
+	padding: 40px;
+	grid-columns:1fr;
+	background-image: url(../images/41.jpg);
+	background-repeat:no repeat;
+	background-position:right;
+	background-size:cover;
+	background-position:center;
+	margin-left: 350px;
+	height:15vh;
+}
+.sweet{
+	padding: 30px;
+	color: black;
+	text-align:left;
+	grid-columns:2/4fr;
+	margin-left:none;
+}
+.menu{
+	display:grid;
+	grid-template-columns: repeat(4,1fr);
+	padding: none;
+	list-style: 0;
+	text-align: center;
+	border:1px #C0C0C0 solid;
+	border-radius: 5px;
+	margin-bottom:none;
+	background: #FF9AA2;
+}
+a{
+	text-decoration: none;
+}
+li{
+	color:white;
+	list-style: none;
+	padding: 15px;;
+	text-align: center;
+	font-size: 25px;
+	text-decoration: none;
+	border-radius: 10px;
+}
+.sweets{
+	color: black;
+	text-align:center;
+	margin-bottom:10px;
+	font-style:italic;
+	grid-template-columns:3fr;
+	margin-right: 380px;
+	
+}
+.sweettreats{
+	padding: 250px;
+	background:#CD8C95;
+	color:white;
+	text-align:center;
+	margin-bottom:40px;
+	background-image: url(../images/promo6.png);
+	background-repeat:no repeat;
+	background-position:center;
+	background-size:cover;
+}
+.merch1{
+	float:left;
+	width:30%;
+	background:red;	
+	height:40vh;
+	margin-left:50px;
+	background-image: url(../images/promo1.png);
+	background-repeat:no repeat;
+	background-position:center;
+	background-size:cover;
+	margin-bottom:30px;
+	margin-right:20px;
+}
+.merch2{
+	float:left;
+	width:30%;
+	background:red;	
+	height:40vh;
+	margin-left:50px;
+	background-image: url(../images/promo2.png);
+	background-repeat:no repeat;
+	background-position:center;
+	background-size:cover;
+	margin-bottom:30px;
+}
+.merch3{
+	float:left;
+	width:30%;
+	background:red;	
+	height:40vh;
+	margin-left:50px;
+	background-image: url(../images/promo3.png);
+	background-repeat:no repeat;
+	background-position:center;
+	background-size:cover;
+	margin-bottom:30px;
+	margin-right:px;
+}
+.footer{
+	text-align:center;
+	color: black;
+	float: left;
+	width: 100%;
+	height:5vh;
+	margin-bottom: 20px;
+}
+.merch4{
+	float:left;
+	width:30%;
+	background:red;	
+	height:40vh;
+	margin-left:50px;
+	background-image: url(../images/promo4.png);
+	background-repeat:no repeat;
+	background-position:center;
+	background-size:cover;
+	margin-bottom:30px;
+}
+.merch5{
+	float:left;
+	width:30%;
+	background:red;	
+	height:40vh;
+	margin-left:50px;
+	background-image: url(../images/promo5.png);
+	background-repeat:no repeat;
+	background-position:center;
+	background-size:cover;
+	margin-bottom:30px;
+
+}
+
+
+.pad{
+	float:left;
+	height:219vh;
+	width:40px;
+	background:#FF9AA2;
+}
+.pads{
+	float:left;
+	height:219vh;
+	width:20px;
+	background:#FF9AA2;
+	margin-left:20px;
+}
+.padss{
+	float:left;
+	height:219vh;
+	width:10px;
+	background:#FF9AA2;
+	margin-left:20px;
+}
+.pad1{
+	float:right;
+	height:219vh;
+	width:40px;
+	background:#FF9AA2;
+	margin-left:20px;
+}
+.pads1{
+	float:right;
+	height:219vh;
+	width:20px;
+	background:#FF9AA2;
+	margin-left:20px;
+}
+.padss1{
+	float:right;
+	height:219vh;
+	width:10px;
+	background:#FF9AA2;
+	margin-left:20px;
+}
+.text1{
+	padding:20px;
+	text-align:center;
+	font-family:calibri light;
+}
+.text2{
+	padding:px;
+	text-align:center;
+	font-family:calibri light;
+}
+.avail{
+	float:right;
+	width:40%;
+	height:40vh;
+	background:;
+	margin-right:70px;
+	margin-bottom:30px;
+}
+.avail2{
+	float:right;
+	width:40%;
+	height:40vh;
+	background:;
+	margin-right:70px;
+	margin-bottom:30px
+}
+.avail3{
+	float:right;
+	width:40%;
+	height:40vh;
+	background:;
+	margin-right:70px;
+	margin-bottom:30px;
+}
+.avail4{
+	float:right;
+	width:40%;
+	height:40vh;
+	background:;
+	margin-right:70px;
+	margin-bottom:30px;
+}
+.avail5{
+	float:right;
+	width:40%;
+	height:40vh;
+	background:;
+	margin-right:70px;
+	margin-bottom:30px;
+}
+
+
+
+
